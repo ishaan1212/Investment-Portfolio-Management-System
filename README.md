@@ -19,4 +19,10 @@
 git clone https://github.com/yourusername/Investment-Portfolio-Management-System.git
 cd Investment-Portfolio-Management-System
 
+### 2️⃣ Install Dependencies
+Run the following command to install the required Python libraries:
+
+```bash
+pip install yfinance mysql-connector-python pandas numpy scipy matplotlib seaborn hubspot-api-client
+
 
